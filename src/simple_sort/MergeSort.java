@@ -1,3 +1,5 @@
+package simple_sort;
+
 public class MergeSort {
     public static void main(String[] args) {
         int[] a = {40, 3, 20, 1, 5, 6, 7, 8};
